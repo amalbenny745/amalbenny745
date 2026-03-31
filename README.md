@@ -115,7 +115,7 @@ Workflow system for showrooms managing leads, service requests, and staff tasks.
 
 ## 💼 Experience
 
-- **Software Engineer** @ ISPG Technologies  
+- **Senior Software Engineer** @ ISPG Technologies  
 - **Software Engineer** @ Simelabs  
 - **Freelance Engineer**  
 - **Associate Consultant** @ Standard Chartered GBS  
