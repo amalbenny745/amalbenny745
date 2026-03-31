@@ -15,7 +15,7 @@
 Full-stack engineer with **6+ years of experience** building high-performance MERN applications, distributed backend systems, and cloud-native solutions. Experienced in leading small engineering teams, shaping technical direction, and delivering impactful products.
 
 - 🔭 Currently building **messaging platforms & real-time systems**
-- 💡 Built scalable systems for **10+ production applications**
+- 💡 Built scalable systems for **30+ production applications**
 - ⚡ Strong focus on **performance, architecture, and UX**
 - 🌱 Open-source contributor to **React & Node.js projects**
 - 🎮 I enjoy building **interactive experiences and web apps**
